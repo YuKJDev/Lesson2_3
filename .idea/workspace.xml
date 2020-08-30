@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cce2bf1c-7004-4681-8f8b-9b435f945b87" name="Default Changelist" comment="load files" />
+    <list default="true" id="cce2bf1c-7004-4681-8f8b-9b435f945b87" name="Default Changelist" comment="load files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +41,11 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="YuKJDev" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Lesson2_3" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -104,7 +111,7 @@
       <updated>1598708686466</updated>
       <workItem from="1598708688393" duration="11905000" />
       <workItem from="1598768617017" duration="1963000" />
-      <workItem from="1598772207728" duration="1473000" />
+      <workItem from="1598772207728" duration="2220000" />
     </task>
     <task id="LOCAL-00001" summary="load files">
       <created>1598766140587</created>
@@ -134,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598774516172</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="load files">
+      <created>1598774754437</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598774754437</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,10 +195,10 @@
       <screen x="0" y="28" width="1366" height="712" />
     </state>
     <state x="436" y="275" width="486" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.28.1366.712@0.28.1366.712" timestamp="1598765959275" />
-    <state x="435" y="253" width="488" height="260" key="Github.CreatePullRequestDialog" timestamp="1598774664894">
+    <state x="435" y="253" width="488" height="260" key="Github.CreatePullRequestDialog" timestamp="1598774698836">
       <screen x="0" y="28" width="1366" height="712" />
     </state>
-    <state x="435" y="253" width="488" height="260" key="Github.CreatePullRequestDialog/0.28.1366.712@0.28.1366.712" timestamp="1598774664894" />
+    <state x="435" y="253" width="488" height="260" key="Github.CreatePullRequestDialog/0.28.1366.712@0.28.1366.712" timestamp="1598774698836" />
     <state x="536" y="284" key="Github.ShareDialog" timestamp="1598774425589">
       <screen x="0" y="28" width="1366" height="712" />
     </state>
@@ -213,10 +227,10 @@
       <screen x="0" y="28" width="1366" height="712" />
     </state>
     <state x="172" y="28" key="SettingsEditor/0.28.1366.712@0.28.1366.712" timestamp="1598772671865" />
-    <state x="278" y="120" width="802" height="526" key="Vcs.Push.Dialog.v2" timestamp="1598774554861">
+    <state x="278" y="120" width="802" height="526" key="Vcs.Push.Dialog.v2" timestamp="1598774885841">
       <screen x="0" y="28" width="1366" height="712" />
     </state>
-    <state x="278" y="120" width="802" height="526" key="Vcs.Push.Dialog.v2/0.28.1366.712@0.28.1366.712" timestamp="1598774554861" />
+    <state x="278" y="120" width="802" height="526" key="Vcs.Push.Dialog.v2/0.28.1366.712@0.28.1366.712" timestamp="1598774885841" />
     <state x="405" y="78" width="548" height="610" key="git4idea.branch.GitSmartOperationDialog" timestamp="1598771166000">
       <screen x="0" y="28" width="1366" height="712" />
     </state>
