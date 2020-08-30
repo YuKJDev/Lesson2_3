@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cce2bf1c-7004-4681-8f8b-9b435f945b87" name="Default Changelist" comment="load files" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gm90qza8dP0ZTMuIeuaG748vxX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.geekbrains.yukjdev.less2_3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Ls2_3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.yukjdev.less2_3.Main" />
+      <module name="Lesson2_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cce2bf1c-7004-4681-8f8b-9b435f945b87" name="Default Changelist" comment="" />
+      <created>1598708686466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598708686466</updated>
+      <workItem from="1598708688393" duration="11905000" />
+      <workItem from="1598768617017" duration="1963000" />
+      <workItem from="1598772207728" duration="1143000" />
+    </task>
+    <task id="LOCAL-00001" summary="load files">
+      <created>1598766140587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598766140587</updated>
+    </task>
+    <task id="LOCAL-00002" summary="load files">
+      <created>1598766166410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598766166410</updated>
+    </task>
+    <task id="LOCAL-00003" summary="load files">
+      <created>1598768697266</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598768697266</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="RELOAD_CONTEXT" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="load files" />
+    <option name="LAST_COMMIT_MESSAGE" value="load files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="28" width="1084" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598774327859">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="0" y="28" width="1084" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1366.712@0.28.1366.712" timestamp="1598774327859" />
+    <state x="491" y="92" width="376" height="583" key="#com.intellij.ide.util.MemberChooser" timestamp="1598760772756">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="491" y="92" width="376" height="583" key="#com.intellij.ide.util.MemberChooser/0.28.1366.712@0.28.1366.712" timestamp="1598760772756" />
+    <state x="412" y="162" width="526" height="442" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1598765956078">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="412" y="162" width="526" height="442" key="#com.intellij.ide.util.PackageChooserDialog/0.28.1366.712@0.28.1366.712" timestamp="1598765956078" />
+    <state x="415" y="177" width="527" height="414" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598774326718">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="415" y="177" width="527" height="414" key="#com.intellij.ide.util.TreeClassChooserDialog/0.28.1366.712@0.28.1366.712" timestamp="1598774326718" />
+    <state x="436" y="275" width="486" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598765959275">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="436" y="275" width="486" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.28.1366.712@0.28.1366.712" timestamp="1598765959275" />
+    <state x="536" y="284" key="Github.ShareDialog" timestamp="1598766347455">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="536" y="284" key="Github.ShareDialog/0.28.1366.712@0.28.1366.712" timestamp="1598766347455" />
+    <state x="476" y="64" width="405" height="638" key="Github.UntrackedFilesDialog" timestamp="1598765919955">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="476" y="64" width="405" height="638" key="Github.UntrackedFilesDialog/0.28.1366.712@0.28.1366.712" timestamp="1598765919955" />
+    <state width="660" height="166" key="GridCell.Tab.0.bottom" timestamp="1598771263478">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state width="660" height="166" key="GridCell.Tab.0.bottom/0.28.1366.712@0.28.1366.712" timestamp="1598771263478" />
+    <state width="660" height="166" key="GridCell.Tab.0.center" timestamp="1598771263476">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state width="660" height="166" key="GridCell.Tab.0.center/0.28.1366.712@0.28.1366.712" timestamp="1598771263476" />
+    <state width="660" height="166" key="GridCell.Tab.0.left" timestamp="1598771263475">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state width="660" height="166" key="GridCell.Tab.0.left/0.28.1366.712@0.28.1366.712" timestamp="1598771263475" />
+    <state width="660" height="166" key="GridCell.Tab.0.right" timestamp="1598771263477">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state width="660" height="166" key="GridCell.Tab.0.right/0.28.1366.712@0.28.1366.712" timestamp="1598771263477" />
+    <state x="172" y="28" key="SettingsEditor" timestamp="1598772671865">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="172" y="28" key="SettingsEditor/0.28.1366.712@0.28.1366.712" timestamp="1598772671865" />
+    <state x="278" y="120" width="802" height="526" key="Vcs.Push.Dialog.v2" timestamp="1598770703229">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="278" y="120" width="802" height="526" key="Vcs.Push.Dialog.v2/0.28.1366.712@0.28.1366.712" timestamp="1598770703229" />
+    <state x="405" y="78" width="548" height="610" key="git4idea.branch.GitSmartOperationDialog" timestamp="1598771166000">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="405" y="78" width="548" height="610" key="git4idea.branch.GitSmartOperationDialog/0.28.1366.712@0.28.1366.712" timestamp="1598771166000" />
+    <state x="346" y="170" width="672" height="677" key="run.anything.popup" timestamp="1598765591440">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="346" y="170" width="672" height="677" key="run.anything.popup/0.28.1366.712@0.28.1366.712" timestamp="1598765591440" />
+  </component>
+</project>
