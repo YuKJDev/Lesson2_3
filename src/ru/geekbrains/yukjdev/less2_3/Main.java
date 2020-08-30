@@ -1,6 +1,9 @@
 package ru.geekbrains.yukjdev.less2_3;
 
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Set;
 
 public class Main {
 
@@ -8,12 +11,22 @@ public class Main {
         String[] fruits = {"apple", "banana", "orange", "pineapple", "kiwi", "apple",
                 "pear", "passion fruit", "banana", "lemon", "papaya", "orange", "pear", "kiwi", "apple", "passion fruit",
                 "banana", "lemon", "papaya", "orange"};
-        HashMap<String, Integer> fruitMap = new HashMap<>();
-        for (String s : fruits) {
-            fruitMap.put(s, fruitMap.getOrDefault(s, 0) + 1);
+        // HashMap<String, Integer> fruitMap = new HashMap<>();
+        //  for (String s : fruits) {
+        //      fruitMap.put(s, fruitMap.getOrDefault(s, 0) + 1);
 
+        //  }
+        Set setFruit = new HashSet<>(Arrays.asList(fruits));
+        HashMap<String, Integer> hm = new HashMap<>();
+        for (String fruit : fruits) {
+            if (setFruit.contains(fruit)) {
+                hm.put(fruit, hm.getOrDefault(fruit, 0) + 1);
+            }
         }
-        System.out.println(fruitMap);
+
+        System.out.println(setFruit); // - Список уникальных
+        System.out.println(hm); // - сколько раз встречается каждое слово
+
 
         PhoneBook pb = new PhoneBook();
         pb.addContact("Иванов", "89204744663");
@@ -26,11 +39,9 @@ public class Main {
         pb.addContact("Сидоров", "8920456682");
         pb.addContact("Петров", "892047444554");
 
-        pb.findAndPrint("Иванов");
-        pb.findAndPrint("Зинченко");
-        pb.findAndPrint("Краснов");
-        pb.findAndPrint("Филиппов");
-        pb.findAndPrint("Сидоров");
+        for (String name : pb.phoneBook.keySet()) {
+            System.out.println(name + "/ tel: " + pb.getPhoneBook().get(name));
+        }
 
     }
 

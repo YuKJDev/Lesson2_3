@@ -18,9 +18,13 @@ public class PhoneBook {
         phoneBook.put(name, contact);
     }
 
-    public void findAndPrint(String name) {
-        System.out.println("Фамилия - " + name + " / № телефона: " + phoneBook.getOrDefault(name, new HashSet<>()));
+    public HashMap<String, HashSet<String>> getPhoneBook() {
+        return phoneBook;
     }
+
+    //    public void findAndPrint(String name) {
+//        System.out.println("Фамилия - " + name + " / № телефона: " + phoneBook.getOrDefault(name, new HashSet<>()));
+//    }
 
 
 }
